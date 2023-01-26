@@ -1,0 +1,19 @@
+ <header class="header">
+        <a href="#" class="navbrand"><i class='bx bxs-leaf' ></i>esodev</a>
+        <div class="bx bx-menu" id="menu-icon"></div>
+
+        <!--navbar-->
+        <ul class="navbar">
+            <li class="nav-item"> <a href="#home" class="nav-link">home</a></li>
+            <li class="nav-item"> <a href="#about" class="nav-link">about</a></li>
+            <li class="nav-item"> <a href="#resume" class="nav-link">resume</a></li>
+            <li class="nav-item"> <a href="#portfolio" class="nav-link">blog</a></li>
+            <li class="nav-item"> <a href="#blog" class="nav-link">project</a></li>
+            <li class="nav-item"> <a href="#contact" class="nav-link">contact</a></li>
+        </ul>    
+        <!--buttons-->
+        <div class="header-btn">
+            <a href="#" class="sign-up">Sing up</a>
+            <a href="#" class="sign-in">Sing in</a>
+        </div>
+    </header>
